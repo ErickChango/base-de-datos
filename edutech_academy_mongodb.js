@@ -110,6 +110,6 @@ db.estudiantes.aggregate([
 ]);
 
 // Consultas basicas
-show collections;
-db.estudiantes.find();
-db.cursos.find();
+show collections
+db.estudiantes.find()
+db.cursos.find()
